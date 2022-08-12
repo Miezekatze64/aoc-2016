@@ -1,3 +1,4 @@
+#!/usr/bin/runghc
 module Main where
 
 import Data.Maybe
